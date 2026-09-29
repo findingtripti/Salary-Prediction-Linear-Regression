@@ -155,7 +155,7 @@ This project can be further improved by:
 
 ## 📌 Project Status
 
-**Completed — Machine Learning Practice **
+** Completed — Machine Learning Practice **
 
 ---
 
